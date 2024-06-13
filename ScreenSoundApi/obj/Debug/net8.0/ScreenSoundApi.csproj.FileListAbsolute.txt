@@ -1,0 +1,14 @@
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\bin\Debug\net8.0\ScreenSoundApi.exe
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\bin\Debug\net8.0\ScreenSoundApi.deps.json
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\bin\Debug\net8.0\ScreenSoundApi.runtimeconfig.json
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\bin\Debug\net8.0\ScreenSoundApi.dll
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\bin\Debug\net8.0\ScreenSoundApi.pdb
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\ScreenSoundApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\ScreenSoundApi.AssemblyInfoInputs.cache
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\ScreenSoundApi.AssemblyInfo.cs
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\ScreenSoundApi.csproj.CoreCompileInputs.cache
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\ScreenSoundApi.dll
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\refint\ScreenSoundApi.dll
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\ScreenSoundApi.pdb
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\ScreenSoundApi.genruntimeconfig.cache
+C:\Users\leoma\source\repos\ScreenSoundApi\ScreenSoundApi\obj\Debug\net8.0\ref\ScreenSoundApi.dll
